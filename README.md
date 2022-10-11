@@ -1,6 +1,6 @@
-<p align="center">
+
  ![](https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/arsenic_banner.png "banner")
-</p>
+
 
 ---
 
