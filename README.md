@@ -1,5 +1,5 @@
 
- ![](https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/arsenic_banner.png "banner")
+ ![](https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/arsenic_banner.png)
 
 
 ---
