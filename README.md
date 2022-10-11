@@ -6,8 +6,8 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on [Tetris project](link_reference)
-[link_reference] : https://github.com/Arsenic-ATG/Tetris
+- 🔭 I’m currently working on [Tetris project](link_reference) [link_reference]: https://github.com/Arsenic-ATG/Tetris
+
 - 🌱 I'm currently learning more about [concurrancy](https://en.wikipedia.org/wiki/Concurrency_(computer_science)) in C++
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
